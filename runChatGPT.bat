@@ -1,0 +1,1 @@
+python C:\Users\abcsa\OneDrive\Documents\GitHub\ChatGPT-V2\main.py
